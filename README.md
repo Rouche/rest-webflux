@@ -7,3 +7,8 @@ The source code in this repository is to support my course [Spring Framework 5: 
 WebFlux is a web framework new to Spring Framework 5. Learn more about Spring WebFlux and reactive programming in my course!
 
 You can learn more about the Spring Framework at my website [Spring Framework Guru](https://springframework.guru)
+
+## Personnal notes 
+
+Command to access service:  
+`curl -X GET --header 'Accept: application/json' 'http://localhost:8080/api/v1/categories'`
